@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Tech Enthusiast, Student & Developer Learning & Exploring the World of Frond-End, Back-End Software Development, Computer Networks & CyberSecurity.<br>
 
 
