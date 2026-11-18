@@ -15,7 +15,7 @@
 
 > Tech Enthusiast, Student &amp; Developer Learning &amp; Exploring the World of Frond-End, Back-End Software Development, Computer Networks &amp; CyberSecurity.
 
-- 📍 Based in **Lost in the Evolution of Tech**
+- 📍 **Lost in the Evolution of Tech**
 - 🌐 [Website](https://jediah-dsouza.github.io/BluePrint-CV-PortFolio/)
 - 👥 **11** followers · **27** following
 
