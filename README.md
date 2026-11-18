@@ -4,7 +4,6 @@
 
 # Jediah Michael D'souza
 
-> Technical founder
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=jediah-dsouza&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222896804%3Fu%3D2a6c2dbea15ac9f46328c19e03178054fd454ba1%26v%3D4" alt="jediah-dsouza hero visual" />
