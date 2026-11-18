@@ -44,4 +44,4 @@
 
 <a href="https://github.com/jediah-dsouza">GitHub</a> · <a href="https://jediah-dsouza.github.io/BluePrint-CV-PortFolio/">Website</a>
 
-<p align="center"><sub>Jediah Michael D'souza · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Jediah Michael D'souza 
