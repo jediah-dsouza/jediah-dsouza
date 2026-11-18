@@ -21,7 +21,7 @@
 
 *Small, useful work over vague claims.*
 
-## Products and proof
+## OVERVIEW
 
 <table>
 <tr><td width="32%"><b><a href="https://github.com/jediah-dsouza/ChurnGuard">ChurnGuard</a></b></td><td>A Production-Oriented Streamlit ML application for customer churn prediction, XGBoost-powered risk scoring, model explainability, customer analytics, batch prediction, and retention decision support—with rigorous model evaluation and automated QA.<br/><sub>Python · 0 stars</sub></td></tr>
