@@ -17,7 +17,7 @@
 
 - 📍 **Lost in the Evolution of Tech**
 - 🌐 [Website](https://jediah-dsouza.github.io/BluePrint-CV-PortFolio/)
-- 👥 **11** followers · **27** following
+- 👥 **11** followers · **43** following
 
 *Small, useful work over vague claims.*
 
